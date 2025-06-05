@@ -1,5 +1,5 @@
 # Karapuka Apps. Lullaby Sounds for Baby Sleep. App created by mom for babies
-Privacy Policy
+# Privacy Policy
 This Privacy Policy applies to the current application “Baby lullaby music. Lullabies” ("App") and outlines how developer LIZAVETA KARALEUSKAYA ("we," "us," or "our") collects, uses, protects, and discloses the personal information of its users ("you" or "your") while you interact with the App.
 Please read this Privacy Policy carefully to understand our policies and practices regarding your personal data and how we will handle it.
 
